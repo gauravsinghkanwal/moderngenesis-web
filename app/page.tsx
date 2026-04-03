@@ -24,7 +24,7 @@ export default function Home() {
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-500">Digital Infrastructure</span>
         </h1>
         <p className="text-lg md:text-xl text-slate-400 max-w-2xl mb-10 leading-relaxed">
-          Modern Genesis Technologies delivers secure, scalable custom software, real-time geolocation architectures, and AI integrations.
+          Modern Genesis Technologies delivers secure, scalable custom software, real-time geolocation architectures, and AI integrations anywhere everywhere.
         </p>
         
         {/* Case Studies Teaser */}
